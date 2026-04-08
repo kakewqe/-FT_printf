@@ -31,9 +31,9 @@ make
 
 ## Utilisation
 
-Compiler avec la librairie :
+Compiler  :
 
-gcc main.c libftprintf.a
+gcc main.c
 
 Exemple :
 
