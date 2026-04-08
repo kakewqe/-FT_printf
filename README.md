@@ -34,7 +34,7 @@ make
 ### Usage
 
 ```bash
-gcc main.c libftprintf.a
+gcc main.c
 ```
 
 ### Example
@@ -94,7 +94,7 @@ make
 ### Utilisation
 
 ```bash
-gcc main.c libftprintf.a
+gcc main.c 
 ```
 
 ### Exemple
